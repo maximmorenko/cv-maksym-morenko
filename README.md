@@ -1,1 +1,0 @@
-### [cv Maksim Morenko](https://maximmorenko.github.io/cv-maksym-morenko/)
