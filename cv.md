@@ -1,4 +1,4 @@
-![](https://github.com/maximmorenko/rsschool-cv/blob/gh-pages/assets/maksim_morenko.png)
+![](https://github.com/maximmorenko/cv-maksym-morenko/assets/maksim_morenko.png)
 
 # MAKSIM MORENKO
 ### JUNIOR FRONT-END DEVELOPER

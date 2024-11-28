@@ -1,1 +1,1 @@
-### [cv Maksim Morenko](https://maximmorenko.github.io/rsschool-cv/)
+### [cv Maksim Morenko](https://maximmorenko.github.io/cv-maksym-morenko/)
